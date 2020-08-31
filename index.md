@@ -1,16 +1,18 @@
 <html>
   <head>
-    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/flower_eyes.ico">
   </head>
 </html>
 
 ## Who
 
-Hi there, I'm Cameron. I have a background in plant ecology and data science, and am interested in applications of software, remote sensing data and machine learning for ecosystem monitoring and climate mitigation.
+Hi there, I'm Cameron.
+
+I have a background in plant ecology and data science, and am interested in applications of software, remote sensing data and machine learning for ecosystem monitoring and climate mitigation.
 
 ## Work
 
-I'm an intern at Planet, where I work on Analytics applications and infrastructure. At Planet, we're imaging Earth's entire land mass every day, and empowering our users to understand land use change at increasingly granular spatial and temporal resolutions. On Analytics, we build machine learning applications to enable organizations with varying levels of geospatial and ML expertise to understand complex dynamics of change at scales.
+I'm a Software Engineering intern at [Planet](https://www.planet.com/), where I work on Analytics applications and infrastructure. At Planet, we're imaging Earth's entire land mass every day, and empowering our users to understand land use change at increasingly granular spatial and temporal resolutions. On Analytics, we build machine learning applications to enable organizations with varying levels of geospatial and ML expertise to understand complex dynamics of change on a global scale.
 
 ## Projects
 
@@ -33,13 +35,11 @@ Here are some of thoughts my on the [Earth Observation industry](https://medium.
 
 - My favorite plant is _Quercus agrifolia_, the California Coast Live Oak.
 
-~[bike race](assets/glory_days.jpg)
+<p><img src="/assets/glory_days.jpg" alt="bike race" style="float: left; height: 270px; margin-right: 1%; margin-bottom: 0.5em;"/><img src="/assets/biketan.jpg" alt="tan lines" style="float: left; height: 270px; margin-right: 1%; margin-bottom: 0.5em;"/><p style="clear: both;">
 
 - I am a Category 1 road cyclist (a life-long credential, I think). I used to have wicked tan lines and wanted to go Pro (I still ride for fun).
-
-![tan lines](assets/biketan.jpg)
 
 - I was [attacked by a river otter](https://www.wemjournal.org/article/S1080-6032(07)70202-8/fulltext) when I was 10.
 - I used to work at [Chez Panisse](https://www.chezpanisse.com/about/chez-panisse/).
 
-![chez panisse](assets/salad_finger.png])
+![chez panisse](assets/salad_fingers.png)
