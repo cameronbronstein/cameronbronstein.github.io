@@ -5,7 +5,7 @@ I have a background in plant ecology and data science, and am interested in appl
 
 
 ## Work
-I'm a Software Engineering intern at [Planet](https://www.planet.com/), where I work on Analytics applications and infrastructure. At Planet, we're imaging Earth's entire land mass every day, and empowering our users to understand land use change at increasingly granular spatial and temporal resolutions. On Analytics, we build machine learning applications that enable organizations with diverse levels of geospatial and ML expertise to understand complex dynamics of change on a global scale.
+I'm a Software Engineer at [Planet](https://www.planet.com/) working on derived data products. At Planet, we're imaging Earth's entire land mass every day. Leveraging the high temporal and spatial resolution of our imagery data, we build machine learning models that give insight to complex dynamics of land cover change, and deploy these models on a global scale.
 
 
 ## Projects
@@ -20,7 +20,7 @@ Check out some of my data science work and GIS projects on [Github](https://gith
 
 
 ## Writing
-It's the 21st century and I'm a millennial, so of course I have a blog. Really, this is just a place where I write about new learnings in the realm of software, ML, and earth observation. Some day, it might take on new shapes and dimensions.
+Occasionally I blog about new learnings in the realm of software, ML, and earth observation. Some day, my writing might take on new shapes and dimensions. 
 
 Here are some of thoughts my on the [Earth Observation industry](https://medium.com/@cambostein/reflections-on-ard19-ce9dddc7e64f) and [wildfire in California](https://medium.com/@cambostein/visualizing-the-mendocino-complex-fire-with-google-earth-engine-a5df0823e02c).
 
